@@ -1,7 +1,8 @@
 # Tic Tac Toe AI Game
 
-![ai_tictac](https://github.com/themufid/tictactoe_game/assets/111524042/663cfa8f-9200-4257-9bad-721d6187d31a)
+![ai_tictac](https://github.com/themufid/TicTacToe_Game/assets/111524042/2c462fc4-8e7a-4105-aaa7-1614c64a756b)
 
-![tictactoe_home](https://github.com/themufid/tictactoe_game/assets/111524042/dddc346b-800b-4f65-993f-0ef2fc4d8df5)
+![ai_tictac_trans](https://github.com/themufid/TicTacToe_Game/assets/111524042/72c0e8d4-8fe1-4efb-81e4-be65ad9ba78c)
 
-![tictactoe_game](https://github.com/themufid/tictactoe_game/assets/111524042/c42fad62-df9a-43ec-acfa-42d1758cf7a7)
+![tictactoe_game](https://github.com/themufid/TicTacToe_Game/assets/111524042/0098e18f-83e4-4475-b483-5966f64cbf30)
+
